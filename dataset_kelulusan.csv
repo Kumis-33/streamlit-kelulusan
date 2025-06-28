@@ -1,0 +1,151 @@
+nim,ipk,jumlah_sks,semester,jenis_kelamin,jurusan,ikut_organisasi,beasiswa,lulus_tepat_waktu
+NIM00001,3.25,123,6,Laki-laki,Teknik Informatika,1,0,1
+NIM00002,2.93,132,13,Laki-laki,Kedokteran,0,0,0
+NIM00003,3.32,123,4,Perempuan,Manajemen,0,1,1
+NIM00004,3.76,110,3,Perempuan,Hukum,0,0,0
+NIM00005,2.88,148,7,Laki-laki,Kedokteran,0,0,1
+NIM00006,2.88,107,8,Perempuan,Kedokteran,0,0,0
+NIM00007,3.79,135,4,Perempuan,Kedokteran,0,0,1
+NIM00008,3.38,137,13,Laki-laki,Kedokteran,0,1,0
+NIM00009,2.77,139,2,Perempuan,Kedokteran,0,1,1
+NIM00010,3.27,119,12,Laki-laki,Akuntansi,1,0,0
+NIM00011,2.77,134,10,Laki-laki,Hukum,0,0,0
+NIM00012,2.77,147,3,Laki-laki,Kedokteran,1,0,1
+NIM00013,3.12,124,1,Laki-laki,Hukum,0,0,1
+NIM00014,2.04,134,8,Laki-laki,Akuntansi,1,0,0
+NIM00015,2.14,124,3,Laki-laki,Akuntansi,0,0,0
+NIM00016,2.72,128,12,Laki-laki,Hukum,1,0,0
+NIM00017,2.49,117,10,Perempuan,Teknik Informatika,1,0,0
+NIM00018,3.16,145,7,Laki-laki,Manajemen,0,0,1
+NIM00019,2.55,117,10,Laki-laki,Teknik Informatika,1,0,0
+NIM00020,2.29,101,5,Perempuan,Teknik Informatika,0,0,0
+NIM00021,3.73,134,10,Perempuan,Teknik Informatika,0,0,0
+NIM00022,2.89,115,5,Perempuan,Kedokteran,0,1,0
+NIM00023,3.03,140,7,Laki-laki,Akuntansi,0,0,1
+NIM00024,2.29,135,9,Perempuan,Teknik Informatika,0,0,0
+NIM00025,2.73,132,12,Laki-laki,Akuntansi,0,1,0
+NIM00026,3.06,103,5,Laki-laki,Hukum,1,0,0
+NIM00027,2.42,132,1,Laki-laki,Manajemen,0,1,0
+NIM00028,3.19,113,10,Laki-laki,Hukum,0,0,0
+NIM00029,2.7,120,10,Perempuan,Hukum,0,1,0
+NIM00030,2.85,147,1,Perempuan,Kedokteran,0,1,1
+NIM00031,2.7,119,2,Laki-laki,Manajemen,0,1,0
+NIM00032,3.93,107,6,Laki-laki,Hukum,1,1,0
+NIM00033,2.99,106,9,Laki-laki,Hukum,0,0,0
+NIM00034,2.47,102,8,Perempuan,Manajemen,0,0,0
+NIM00035,3.41,116,13,Laki-laki,Manajemen,0,1,0
+NIM00036,2.39,132,5,Laki-laki,Hukum,0,0,0
+NIM00037,3.1,147,1,Perempuan,Manajemen,1,1,1
+NIM00038,2.02,111,13,Perempuan,Hukum,0,0,0
+NIM00039,2.34,121,7,Laki-laki,Hukum,0,0,0
+NIM00040,3.1,121,5,Perempuan,Kedokteran,1,0,1
+NIM00041,3.37,145,6,Perempuan,Teknik Informatika,0,0,1
+NIM00042,3.09,129,13,Laki-laki,Hukum,1,0,0
+NIM00043,2.94,137,7,Perempuan,Akuntansi,0,0,1
+NIM00044,2.85,137,3,Laki-laki,Teknik Informatika,1,0,1
+NIM00045,2.26,144,12,Perempuan,Teknik Informatika,0,0,0
+NIM00046,2.64,107,10,Laki-laki,Teknik Informatika,1,0,0
+NIM00047,2.77,126,3,Laki-laki,Kedokteran,0,1,1
+NIM00048,3.53,126,5,Laki-laki,Hukum,0,0,1
+NIM00049,3.17,133,6,Perempuan,Kedokteran,0,0,1
+NIM00050,2.12,120,9,Laki-laki,Hukum,1,0,0
+NIM00051,3.16,129,13,Perempuan,Kedokteran,1,1,0
+NIM00052,2.81,132,12,Laki-laki,Kedokteran,1,0,0
+NIM00053,2.66,127,5,Laki-laki,Akuntansi,0,1,0
+NIM00054,3.31,146,1,Perempuan,Kedokteran,1,1,1
+NIM00055,3.52,132,4,Laki-laki,Manajemen,0,0,1
+NIM00056,3.47,104,5,Laki-laki,Akuntansi,0,0,0
+NIM00057,2.58,147,12,Perempuan,Kedokteran,0,0,0
+NIM00058,2.85,118,10,Laki-laki,Teknik Informatika,1,0,0
+NIM00059,3.17,103,10,Laki-laki,Manajemen,0,0,0
+NIM00060,3.49,134,5,Laki-laki,Manajemen,0,1,1
+NIM00061,2.76,148,7,Laki-laki,Manajemen,1,0,1
+NIM00062,2.91,116,4,Perempuan,Akuntansi,0,0,0
+NIM00063,2.45,143,1,Perempuan,Kedokteran,0,0,0
+NIM00064,2.4,127,5,Laki-laki,Kedokteran,0,1,0
+NIM00065,3.41,129,7,Perempuan,Teknik Informatika,0,0,1
+NIM00066,3.68,128,10,Laki-laki,Teknik Informatika,0,0,0
+NIM00067,2.96,145,10,Perempuan,Manajemen,0,1,0
+NIM00068,3.5,105,6,Laki-laki,Teknik Informatika,1,1,0
+NIM00069,3.18,134,5,Laki-laki,Akuntansi,0,0,1
+NIM00070,2.68,140,4,Laki-laki,Kedokteran,0,0,0
+NIM00071,3.18,136,2,Laki-laki,Manajemen,1,1,1
+NIM00072,3.77,123,4,Laki-laki,Teknik Informatika,0,0,1
+NIM00073,2.98,128,10,Laki-laki,Akuntansi,0,0,0
+NIM00074,3.78,148,10,Perempuan,Akuntansi,0,0,0
+NIM00075,1.69,145,3,Laki-laki,Teknik Informatika,0,0,0
+NIM00076,3.41,130,10,Perempuan,Kedokteran,0,1,0
+NIM00077,3.04,134,1,Laki-laki,Teknik Informatika,1,1,1
+NIM00078,2.85,132,8,Perempuan,Manajemen,1,0,1
+NIM00079,3.05,120,5,Perempuan,Teknik Informatika,0,0,1
+NIM00080,2.01,131,13,Perempuan,Akuntansi,0,0,0
+NIM00081,2.89,122,4,Laki-laki,Teknik Informatika,0,0,1
+NIM00082,3.18,132,8,Laki-laki,Kedokteran,1,1,1
+NIM00083,3.74,102,7,Perempuan,Hukum,0,0,0
+NIM00084,2.74,117,2,Laki-laki,Teknik Informatika,0,0,0
+NIM00085,2.6,124,1,Perempuan,Kedokteran,0,0,0
+NIM00086,2.75,141,12,Laki-laki,Kedokteran,0,0,0
+NIM00087,3.46,130,11,Perempuan,Akuntansi,1,0,0
+NIM00088,3.16,102,4,Perempuan,Kedokteran,0,1,0
+NIM00089,2.74,139,8,Laki-laki,Kedokteran,1,0,0
+NIM00090,3.26,145,12,Perempuan,Kedokteran,0,1,0
+NIM00091,3.05,123,2,Laki-laki,Kedokteran,1,0,1
+NIM00092,3.48,149,3,Perempuan,Manajemen,0,0,1
+NIM00093,2.65,131,12,Perempuan,Manajemen,0,0,0
+NIM00094,2.84,146,1,Laki-laki,Akuntansi,1,1,1
+NIM00095,2.8,121,1,Laki-laki,Teknik Informatika,1,1,1
+NIM00096,2.27,122,13,Laki-laki,Kedokteran,1,0,0
+NIM00097,3.15,101,3,Perempuan,Teknik Informatika,0,0,0
+NIM00098,3.13,126,11,Laki-laki,Teknik Informatika,1,1,0
+NIM00099,3.0,141,5,Perempuan,Akuntansi,0,0,1
+NIM00100,2.88,101,12,Perempuan,Kedokteran,1,0,0
+NIM00101,2.29,125,3,Laki-laki,Kedokteran,0,1,0
+NIM00102,2.79,116,1,Laki-laki,Hukum,1,0,0
+NIM00103,2.83,139,1,Perempuan,Teknik Informatika,1,0,1
+NIM00104,2.6,132,8,Perempuan,Teknik Informatika,1,0,0
+NIM00105,2.92,108,10,Laki-laki,Manajemen,0,0,0
+NIM00106,3.2,142,11,Laki-laki,Hukum,0,0,0
+NIM00107,3.94,147,12,Laki-laki,Manajemen,1,1,0
+NIM00108,3.09,138,13,Laki-laki,Manajemen,0,0,0
+NIM00109,3.13,128,13,Laki-laki,Manajemen,1,0,0
+NIM00110,2.96,141,12,Perempuan,Akuntansi,1,0,0
+NIM00111,2.04,125,2,Perempuan,Akuntansi,0,0,0
+NIM00112,2.99,134,13,Perempuan,Manajemen,1,1,0
+NIM00113,3.03,149,3,Perempuan,Hukum,0,0,1
+NIM00114,4.23,124,2,Laki-laki,Teknik Informatika,1,0,1
+NIM00115,2.9,123,3,Laki-laki,Hukum,1,1,1
+NIM00116,3.15,112,7,Laki-laki,Kedokteran,0,0,0
+NIM00117,2.98,106,1,Perempuan,Akuntansi,0,0,0
+NIM00118,2.42,135,10,Perempuan,Teknik Informatika,1,0,0
+NIM00119,3.57,144,8,Laki-laki,Teknik Informatika,0,0,1
+NIM00120,3.38,119,13,Laki-laki,Kedokteran,0,0,0
+NIM00121,3.4,100,10,Perempuan,Kedokteran,0,0,0
+NIM00122,2.55,107,10,Perempuan,Manajemen,0,1,0
+NIM00123,3.7,145,10,Laki-laki,Akuntansi,0,0,0
+NIM00124,2.3,115,2,Laki-laki,Akuntansi,0,0,0
+NIM00125,3.29,113,3,Perempuan,Hukum,0,0,0
+NIM00126,4.1,111,9,Laki-laki,Manajemen,1,0,0
+NIM00127,2.5,122,7,Laki-laki,Manajemen,0,1,0
+NIM00128,2.72,114,4,Laki-laki,Manajemen,0,0,0
+NIM00129,3.05,127,10,Perempuan,Manajemen,0,0,0
+NIM00130,2.75,133,5,Perempuan,Akuntansi,0,1,0
+NIM00131,2.22,101,2,Perempuan,Akuntansi,0,0,0
+NIM00132,3.03,131,13,Perempuan,Manajemen,1,0,0
+NIM00133,2.47,122,11,Perempuan,Hukum,1,0,0
+NIM00134,3.24,121,13,Perempuan,Teknik Informatika,0,0,0
+NIM00135,2.54,124,8,Perempuan,Teknik Informatika,1,1,0
+NIM00136,3.77,121,4,Laki-laki,Hukum,1,0,1
+NIM00137,2.61,121,9,Laki-laki,Manajemen,0,0,0
+NIM00138,2.84,148,5,Laki-laki,Akuntansi,1,0,1
+NIM00139,3.41,141,13,Laki-laki,Teknik Informatika,1,1,0
+NIM00140,2.38,105,9,Laki-laki,Kedokteran,0,0,0
+NIM00141,3.11,114,4,Laki-laki,Kedokteran,0,1,0
+NIM00142,3.65,142,10,Laki-laki,Hukum,1,0,0
+NIM00143,2.2,136,5,Perempuan,Manajemen,1,1,0
+NIM00144,3.09,132,9,Perempuan,Teknik Informatika,0,1,0
+NIM00145,3.13,107,8,Laki-laki,Manajemen,1,1,0
+NIM00146,3.39,143,3,Laki-laki,Teknik Informatika,1,1,1
+NIM00147,2.38,143,1,Perempuan,Hukum,1,0,0
+NIM00148,2.34,104,3,Laki-laki,Hukum,1,0,0
+NIM00149,3.26,138,4,Laki-laki,Kedokteran,1,0,1
+NIM00150,3.15,103,2,Perempuan,Manajemen,0,0,0
